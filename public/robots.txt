@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://healthlens-preview.vercel.app/sitemap.xml
